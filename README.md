@@ -6,6 +6,9 @@ This is a Snake game with multiplayer functionality developed using JavaFX. The 
 
 To start the program, run the `main()` method in `Lobby.java`.
 
+## Game Overview
+
+
 ## Resources
 
 - **Background**: [Raoniad on ArtStation Pixel background](https://www.artstation.com/artwork/eaBVYZ)
