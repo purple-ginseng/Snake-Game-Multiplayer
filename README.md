@@ -8,7 +8,7 @@ To start the program, run the `main()` method in `Lobby.java`.
 
 ## Resources
 
-- **Background**:
+- **Background**: [Raoniad on ArtStation Pixel background](https://www.artstation.com/artwork/eaBVYZ)
     
 - **Font**: ARCADECLASSIC.TTF
 - **Music**: [YouTube Link](https://www.youtube.com/watch?v=G4qshdFNxJQ)
