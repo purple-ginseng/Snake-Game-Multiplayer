@@ -8,11 +8,13 @@ To start the program, run the `main()` method in `Lobby.java`.
 
 ## Game Overview
 
+![Quick Start](./images/4ee73ef4b6bfa887d869890dd23b7bb.png)
+
 
 ## Resources
 
 - **Background**: [Raoniad on ArtStation Pixel background](https://www.artstation.com/artwork/eaBVYZ)
-    
+    s
 - **Font**: ARCADECLASSIC.TTF
 - **Music**: [YouTube Link](https://www.youtube.com/watch?v=G4qshdFNxJQ)
 - **Snake and Apple**:
