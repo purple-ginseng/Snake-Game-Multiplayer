@@ -14,10 +14,9 @@ To start the program, run the `main()` method in `Lobby.java`.
 ## Resources
 
 - **Background**: [Raoniad on ArtStation Pixel background](https://www.artstation.com/artwork/eaBVYZ)
-    s
 - **Font**: ARCADECLASSIC.TTF
 - **Music**: [YouTube Link](https://www.youtube.com/watch?v=G4qshdFNxJQ)
-- **Snake and Apple**:
+- **Snake and Apple**: [Emojipedia](https://emojipedia.org/)
     
 
 ## Instructions
